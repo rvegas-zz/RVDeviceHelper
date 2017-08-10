@@ -1,0 +1,6 @@
+framework module Pods_RVDeviceHelper_Tests {
+  umbrella header "Pods-RVDeviceHelper_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

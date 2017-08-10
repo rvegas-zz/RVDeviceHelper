@@ -1,0 +1,6 @@
+framework module RVDeviceHelper {
+  umbrella header "RVDeviceHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
