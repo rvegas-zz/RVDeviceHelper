@@ -1,8 +1,8 @@
 {
   "name": "RVDeviceHelper",
   "version": "0.1.0",
-  "summary": "A short description of RVDeviceHelper.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Short summary for RVDeviceHelper.",
+  "description": "Here will be long long description in the future.",
   "homepage": "https://github.com/rvegas-zz/RVDeviceHelper",
   "license": {
     "type": "MIT",
@@ -16,7 +16,7 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "RVDeviceHelper/Classes/**/*"
 }
