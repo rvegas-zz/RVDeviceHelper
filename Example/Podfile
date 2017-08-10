@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RVDeviceHelper_Example' do
+  pod 'RVDeviceHelper', :path => '../'
+
+  target 'RVDeviceHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
